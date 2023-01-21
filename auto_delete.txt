@@ -1,3 +1,0 @@
-@echo off
-ForFiles /p “C:\Users\Username\Downloads” /s /d –30 /c “cmd /c del @file”
-end
